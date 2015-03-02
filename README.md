@@ -1,7 +1,8 @@
 # sAGeSP
 
-
-
+===========================================================================================
+NOTAS GIT:
+===========================================================================================
 Afegir tots els fitxers   >>>>>>>>>>>>>>   git add .            (compte al punt - diu : tots els fitxers pertanyen al projecte)
 
 Afegir un fitxer >>>>>>>>>>>>> git add <nom fitxer>
@@ -13,3 +14,12 @@ Establir el origen (sol es fa una vegada) >>>>>>>>>>>>>> git remote add origin h
 
 4) finalment fem    >>>>>>>>>>>>>>>>>>>>>>> git push  origin master  (crec que amb   GIT PUSH n'hi ha prou, jejeje - aixo puja el codi a github
 	                               Nota: amb “git push” es suficient
+
+===========================================================================================
+
+Si algun día al fer un comando git apareix el editor VIM: 
+	- escriture algo 
+	- escape
+ 	- teclejar :wq!
+
+==============================================================================================
