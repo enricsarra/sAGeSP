@@ -3,7 +3,7 @@
 ===========================================================================================
 NOTAS GIT:
 ===========================================================================================
-Afegir tots els fitxers   >>>>>>>>>>>>>>  [git add .]           (compte al punt - diu : tots els fitxers pertanyen al projecte)
+Afegir tots els fitxers   >>>>>>>>>>>>>>  [git add .]   (compte al punt - diu : tots els fitxers pertanyen al projecte)
 
 Afegir un fitxer >>>>>>>>>>>>> [git add <nom fitxer>
 
@@ -21,4 +21,10 @@ Si algun día al fer un comando git apareix el editor VIM:
 	- escape
  	- teclejar :wq!
 
+==============================================================================================
+
+Eliminar un fitxer al Mac: (oh he provat amb un fitxer .rtf i al pujarlo el Github no ho visualitze bé)
+1.- eliminar el fitxer
+2.- executar [git commit  -am "v1.0.a - funcionalitat minima”] 
+3.- executor [git push]
 ==============================================================================================
