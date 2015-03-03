@@ -26,5 +26,6 @@ Si algun día al fer un comando git apareix el editor VIM:
 Eliminar un fitxer al Mac: (oh he provat amb un fitxer .rtf i al pujarlo el Github no ho visualitze bé)
 1.- eliminar el fitxer
 2.- executar [git commit  -am "v1.0.a - funcionalitat minima”] 
-3.- executor [git push]
+3.- executar [git push]
+
 ==============================================================================================
